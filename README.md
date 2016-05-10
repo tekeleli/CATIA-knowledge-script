@@ -24,5 +24,7 @@ you need to create:
         point named Point.1 on this skecth with ratio 0
 
 You can change parameters to change it's length, levels count, inner diameter or outer diameter. 
+
 My very first code but maybe it will be helpful for someone
-When it's done, you get spline in Geometrical Set.1 and you can just revolve it using 
+
+When it's done, you get spline in Geometrical Set.1 and you can just revolve it using Sketch.2 as axis

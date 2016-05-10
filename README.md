@@ -1,4 +1,4 @@
-/*look at pictures to see what it does*/
+/*look at the pictures to see what it does*/
 
 Just download leg_0.CATPart
 

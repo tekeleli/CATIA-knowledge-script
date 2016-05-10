@@ -4,7 +4,7 @@ Just download leg_0.CATPart
 
 OR
 
-if you need to make file from scratch, you need to create:
+if you need to make file from scratch, you have to create:
 
     parameters:
         leg_length

@@ -31,6 +31,6 @@ and copy script.txt to knowledge pattern editor window
 
 You can change parameters to change it's length, levels count, inner diameter or outer diameter. When you're done with it, you have to click EXECUTE NOW button in pattern editor and then OK.
 
-When it's done, you get spline in Geometrical Set.1 and you can just revolve it using Sketch.2 as an axis
+When it's done, you get spline in Geometrical Set.1 and you can just Shaft  it using Sketch.2 as an axis
 
 My very first code but maybe it will be helpful for someone

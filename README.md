@@ -1,2 +1,2 @@
-# CATIA-script
-creates cylinder with complex profile
+/*read wiki for information about how to make it work*/
+

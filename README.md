@@ -20,8 +20,8 @@ you need to create:
         points_2
         spline
     geometry:
-    1. sketch named Sketch.2 lenged by parameter leg_length
-    2. point named Point.1 on this skecth with ratio 0
+        sketch named Sketch.2 lenged by parameter leg_length
+        point named Point.1 on this skecth with ratio 0
 
 You can change parameters to change it's length, levels count, inner diameter or outer diameter. 
 My very first code but maybe it will be helpful for someone

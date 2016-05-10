@@ -1,6 +1,10 @@
 /*look at pictures to see what it does*/
 
-you need to create:
+Just download leg_0.CATPart
+
+OR
+
+if you need to make file from scratch, you need to create:
 
     parameters:
         leg_length
@@ -23,8 +27,8 @@ you need to create:
         sketch named Sketch.2 lenged by parameter leg_length
         point named Point.1 on this skecth with ratio 0
 
-You can change parameters to change it's length, levels count, inner diameter or outer diameter. 
-
-My very first code but maybe it will be helpful for someone
+You can change parameters to change it's length, levels count, inner diameter or outer diameter. When you're done with it, you have to click EXECUTE NOW button in pattern editor and then OK.
 
 When it's done, you get spline in Geometrical Set.1 and you can just revolve it using Sketch.2 as axis
+
+My very first code but maybe it will be helpful for someone

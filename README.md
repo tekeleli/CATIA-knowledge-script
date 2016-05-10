@@ -29,7 +29,7 @@ if you need to make file from scratch, you have to create:
 
 and copy script.txt to knowledge pattern editor window
 
-You can change parameters to change it's length, levels count, inner diameter or outer diameter. 
+You can change parameters to change its length, levels count, inner diameter or outer diameter. 
 
 When it's done, you get spline in Geometrical Set.1 and you can just Shaft  it using Sketch.2 as an axis
 
